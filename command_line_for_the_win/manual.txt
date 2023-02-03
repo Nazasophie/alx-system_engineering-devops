@@ -56,6 +56,9 @@ QUESTION: 8
 Copy the file named take-the-command-challenge to the directory tmp/files
 
 ANS	cp take-the-command-challenge  tmp/files
+
+QUESTION:
+Move the file named take-the-command-challenge to the directory tmp/files
 ANS	mv take* tmp/files/
 
 QUESTION: 9
